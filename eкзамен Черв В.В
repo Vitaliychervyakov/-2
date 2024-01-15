@@ -1,0 +1,19 @@
+let i = 1
+;
+while (i) alert(i--);
+let i = 0;
+do {
+  alert( i );
+  i++;
+} while (i < 2);
+for (початок; умова
+for (let i = 0; i < 3; i++) { // показується 0, далі 1, потім 2
+
+  alert(i)
+  let sum = 0;
+
+while (true) {
+
+  let value = +prompt( 10)
+   if (!value) break; // (*)
+   
